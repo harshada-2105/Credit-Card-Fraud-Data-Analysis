@@ -1,0 +1,189 @@
+CaseID,TransactionID,FraudType,ReportedDate,InvestigationStatus,Resolution
+3,3,Stolen Card,2024-10-30 14:47:43,Pending,Chargeback
+12,12,Account Takeover,2025-03-14 14:17:20,Confirmed,Refunded
+19,19,Stolen Card,2025-04-26 10:07:50,Closed,Refunded
+21,21,Account Takeover,2025-07-01 14:10:34,Pending,Blocked Card
+23,23,Stolen Card,2025-03-16 00:04:56,Pending,Refunded
+38,38,Phishing,2025-07-11 03:47:18,Confirmed,Refunded
+47,47,Stolen Card,2024-10-25 04:47:15,Pending,Chargeback
+51,51,Phishing,2025-08-05 02:35:59,Confirmed,Blocked Card
+56,56,Phishing,2025-02-14 09:04:14,Confirmed,Blocked Card
+67,67,Account Takeover,2024-09-27 22:33:20,Closed,Refunded
+70,70,Fake Account,2025-08-30 05:02:20,Confirmed,Blocked Card
+71,71,Stolen Card,2025-04-11 17:25:31,Closed,Blocked Card
+74,74,Fake Account,2025-01-27 03:52:33,Closed,Chargeback
+79,79,Fake Account,2024-12-18 06:45:46,Pending,Blocked Card
+80,80,Account Takeover,2025-04-23 05:46:46,Closed,Refunded
+81,81,Stolen Card,2025-08-13 08:38:32,Closed,Refunded
+83,83,Phishing,2025-08-07 23:47:37,Closed,Refunded
+87,87,Stolen Card,2025-03-10 00:34:31,Pending,Blocked Card
+89,89,Phishing,2025-04-02 18:33:54,Closed,Blocked Card
+92,92,Fake Account,2025-06-06 07:13:55,Pending,Chargeback
+101,101,Account Takeover,2024-09-26 04:32:55,Pending,Refunded
+106,106,Account Takeover,2024-12-24 19:52:00,Closed,Blocked Card
+112,112,Stolen Card,2025-06-03 18:07:33,Pending,Chargeback
+114,114,Stolen Card,2025-01-04 04:41:43,Pending,Blocked Card
+128,128,Stolen Card,2025-02-07 23:52:55,Confirmed,Chargeback
+144,144,Fake Account,2025-05-11 17:07:25,Closed,Refunded
+149,149,Account Takeover,2025-05-06 11:00:02,Closed,Refunded
+162,162,Fake Account,2025-01-19 02:59:48,Confirmed,Refunded
+167,167,Stolen Card,2025-05-01 14:55:35,Confirmed,Blocked Card
+169,169,Stolen Card,2024-12-01 05:33:02,Pending,Chargeback
+173,173,Stolen Card,2025-05-16 07:57:05,Pending,Blocked Card
+174,174,Stolen Card,2024-09-11 02:06:54,Pending,Refunded
+177,177,Account Takeover,2025-08-06 16:17:28,Closed,Refunded
+184,184,Fake Account,2025-07-31 06:32:57,Pending,Blocked Card
+186,186,Account Takeover,2025-03-02 02:30:01,Pending,Refunded
+191,191,Account Takeover,2024-09-29 13:03:33,Pending,Refunded
+200,200,Phishing,2025-02-06 21:24:38,Confirmed,Refunded
+205,205,Fake Account,2024-10-11 15:43:09,Closed,Blocked Card
+209,209,Fake Account,2024-09-27 00:31:52,Closed,Chargeback
+219,219,Stolen Card,2024-12-13 08:03:24,Confirmed,Refunded
+224,224,Account Takeover,2024-12-21 23:09:21,Closed,Chargeback
+226,226,Phishing,2024-09-06 20:21:59,Pending,Refunded
+227,227,Fake Account,2025-03-23 03:29:26,Confirmed,Refunded
+229,229,Fake Account,2025-01-20 23:29:26,Confirmed,Chargeback
+234,234,Fake Account,2024-10-19 02:42:28,Pending,Blocked Card
+235,235,Fake Account,2025-08-24 15:05:47,Pending,Refunded
+239,239,Stolen Card,2025-01-07 02:19:40,Confirmed,Refunded
+252,252,Account Takeover,2025-07-19 02:36:02,Confirmed,Refunded
+253,253,Phishing,2025-02-12 20:26:38,Closed,Refunded
+257,257,Phishing,2024-10-28 13:34:44,Confirmed,Blocked Card
+261,261,Stolen Card,2024-12-27 20:55:01,Confirmed,Blocked Card
+271,271,Fake Account,2025-02-10 13:16:27,Confirmed,Blocked Card
+274,274,Stolen Card,2025-08-03 00:26:34,Closed,Refunded
+276,276,Stolen Card,2024-11-08 00:33:23,Closed,Blocked Card
+277,277,Fake Account,2025-03-07 16:55:36,Closed,Blocked Card
+278,278,Fake Account,2025-03-24 16:40:33,Pending,Refunded
+291,291,Account Takeover,2025-08-07 13:03:58,Confirmed,Chargeback
+299,299,Phishing,2025-08-08 22:35:28,Closed,Refunded
+302,302,Account Takeover,2025-07-12 10:24:24,Pending,Chargeback
+308,308,Phishing,2024-12-07 16:37:17,Confirmed,Blocked Card
+312,312,Phishing,2025-07-13 12:54:00,Pending,Blocked Card
+313,313,Fake Account,2025-02-03 04:54:33,Closed,Refunded
+315,315,Fake Account,2025-02-17 15:15:50,Confirmed,Refunded
+333,333,Fake Account,2024-09-17 11:21:17,Confirmed,Chargeback
+358,358,Phishing,2025-03-26 22:00:11,Pending,Chargeback
+360,360,Account Takeover,2025-03-30 13:17:25,Pending,Chargeback
+369,369,Account Takeover,2025-07-29 05:46:39,Pending,Blocked Card
+374,374,Fake Account,2025-02-07 06:28:52,Confirmed,Blocked Card
+381,381,Account Takeover,2024-10-30 07:34:34,Confirmed,Chargeback
+384,384,Fake Account,2025-03-13 10:36:53,Closed,Refunded
+393,393,Account Takeover,2025-06-18 05:51:00,Closed,Chargeback
+400,400,Fake Account,2025-08-13 16:07:20,Closed,Blocked Card
+405,405,Fake Account,2025-04-26 18:12:00,Pending,Chargeback
+411,411,Account Takeover,2025-08-21 18:33:11,Confirmed,Refunded
+415,415,Fake Account,2025-07-06 01:49:47,Confirmed,Blocked Card
+417,417,Phishing,2024-12-20 22:30:20,Pending,Blocked Card
+422,422,Phishing,2024-09-13 20:10:55,Confirmed,Chargeback
+430,430,Phishing,2025-01-01 22:24:41,Pending,Chargeback
+433,433,Stolen Card,2024-10-31 20:29:20,Confirmed,Chargeback
+434,434,Fake Account,2025-09-01 15:43:13,Closed,Blocked Card
+443,443,Fake Account,2025-04-09 22:10:09,Confirmed,Blocked Card
+453,453,Phishing,2024-11-27 02:16:46,Closed,Blocked Card
+455,455,Fake Account,2025-06-27 11:29:24,Closed,Chargeback
+460,460,Account Takeover,2025-08-23 03:39:58,Pending,Refunded
+481,481,Account Takeover,2025-04-24 17:30:21,Pending,Chargeback
+483,483,Stolen Card,2025-01-05 19:08:57,Confirmed,Blocked Card
+487,487,Fake Account,2025-07-08 00:00:50,Pending,Chargeback
+501,501,Stolen Card,2025-08-28 04:22:50,Confirmed,Refunded
+505,505,Fake Account,2024-12-19 07:12:28,Closed,Blocked Card
+508,508,Phishing,2024-10-08 10:24:17,Confirmed,Refunded
+528,528,Account Takeover,2024-11-24 17:13:19,Confirmed,Blocked Card
+530,530,Stolen Card,2024-11-07 12:54:26,Pending,Chargeback
+540,540,Phishing,2025-08-04 04:03:47,Pending,Chargeback
+550,550,Account Takeover,2025-03-09 16:29:21,Closed,Chargeback
+552,552,Stolen Card,2025-01-15 21:56:37,Confirmed,Refunded
+555,555,Phishing,2025-03-31 04:59:03,Closed,Blocked Card
+559,559,Account Takeover,2025-03-08 23:37:28,Closed,Chargeback
+579,579,Account Takeover,2024-11-22 07:30:10,Closed,Refunded
+582,582,Phishing,2025-05-10 04:29:04,Confirmed,Blocked Card
+584,584,Stolen Card,2024-10-25 12:23:23,Closed,Blocked Card
+585,585,Stolen Card,2024-11-21 09:21:29,Closed,Refunded
+590,590,Account Takeover,2025-04-30 08:43:21,Confirmed,Blocked Card
+608,608,Fake Account,2025-02-24 08:40:59,Closed,Refunded
+620,620,Stolen Card,2025-05-27 00:03:59,Closed,Refunded
+622,622,Stolen Card,2025-04-29 13:19:30,Confirmed,Chargeback
+628,628,Account Takeover,2025-02-02 14:34:33,Pending,Chargeback
+633,633,Phishing,2025-06-26 12:21:17,Confirmed,Blocked Card
+635,635,Stolen Card,2025-06-18 09:13:33,Pending,Blocked Card
+636,636,Phishing,2025-03-20 16:27:25,Closed,Refunded
+637,637,Stolen Card,2024-10-20 06:53:33,Confirmed,Refunded
+643,643,Fake Account,2025-01-12 17:45:13,Confirmed,Blocked Card
+651,651,Fake Account,2025-08-25 15:41:20,Pending,Refunded
+661,661,Fake Account,2024-11-23 21:31:21,Closed,Refunded
+663,663,Phishing,2024-10-03 10:28:41,Closed,Blocked Card
+664,664,Stolen Card,2025-02-20 22:38:27,Closed,Blocked Card
+673,673,Account Takeover,2025-04-30 21:01:50,Pending,Refunded
+675,675,Phishing,2025-02-10 05:58:44,Closed,Refunded
+680,680,Stolen Card,2024-12-10 12:23:41,Confirmed,Refunded
+681,681,Phishing,2025-08-07 12:33:20,Confirmed,Chargeback
+682,682,Phishing,2025-01-14 03:18:16,Pending,Refunded
+685,685,Account Takeover,2025-08-30 17:25:09,Confirmed,Chargeback
+688,688,Account Takeover,2024-11-19 21:04:26,Pending,Refunded
+692,692,Phishing,2025-01-01 13:25:58,Closed,Chargeback
+696,696,Account Takeover,2024-11-07 07:19:36,Closed,Refunded
+698,698,Fake Account,2025-07-19 01:03:04,Confirmed,Chargeback
+700,700,Fake Account,2025-01-03 23:27:01,Confirmed,Blocked Card
+717,717,Phishing,2025-01-18 22:29:45,Pending,Blocked Card
+730,730,Fake Account,2024-11-14 11:13:56,Pending,Chargeback
+733,733,Stolen Card,2025-07-28 12:21:55,Closed,Chargeback
+735,735,Account Takeover,2025-04-08 01:25:50,Confirmed,Blocked Card
+736,736,Account Takeover,2024-10-15 02:29:57,Confirmed,Refunded
+743,743,Fake Account,2024-09-08 23:44:37,Closed,Blocked Card
+744,744,Phishing,2025-01-23 08:21:28,Confirmed,Chargeback
+749,749,Stolen Card,2025-05-24 16:55:19,Confirmed,Refunded
+750,750,Phishing,2024-10-26 13:16:30,Closed,Blocked Card
+752,752,Fake Account,2024-12-06 01:21:25,Confirmed,Chargeback
+758,758,Fake Account,2025-04-19 17:31:09,Pending,Chargeback
+766,766,Account Takeover,2025-07-22 04:48:03,Pending,Refunded
+784,784,Phishing,2025-05-21 01:24:12,Closed,Chargeback
+785,785,Account Takeover,2025-05-13 11:06:32,Confirmed,Chargeback
+794,794,Phishing,2025-02-01 06:13:49,Confirmed,Blocked Card
+801,801,Account Takeover,2024-12-28 09:21:10,Confirmed,Chargeback
+819,819,Stolen Card,2025-04-30 17:57:39,Pending,Refunded
+820,820,Phishing,2024-12-12 03:27:04,Confirmed,Chargeback
+822,822,Phishing,2025-08-15 16:27:33,Closed,Blocked Card
+827,827,Account Takeover,2025-08-02 14:46:57,Confirmed,Chargeback
+839,839,Phishing,2025-06-26 12:20:47,Closed,Refunded
+841,841,Phishing,2024-11-22 21:41:21,Pending,Blocked Card
+842,842,Stolen Card,2025-01-15 20:04:49,Pending,Blocked Card
+851,851,Fake Account,2025-07-04 16:03:51,Confirmed,Chargeback
+853,853,Fake Account,2025-01-13 03:49:24,Confirmed,Refunded
+856,856,Phishing,2025-04-17 12:05:22,Pending,Refunded
+858,858,Fake Account,2024-10-04 15:55:22,Closed,Refunded
+868,868,Stolen Card,2024-11-28 02:59:40,Confirmed,Chargeback
+870,870,Stolen Card,2024-11-06 19:58:32,Confirmed,Chargeback
+873,873,Stolen Card,2025-05-20 10:43:01,Closed,Refunded
+875,875,Fake Account,2025-03-09 18:23:03,Closed,Chargeback
+877,877,Account Takeover,2025-08-08 14:49:26,Pending,Refunded
+882,882,Phishing,2025-02-12 17:59:37,Confirmed,Chargeback
+883,883,Account Takeover,2024-12-02 20:55:01,Closed,Chargeback
+886,886,Fake Account,2025-02-17 23:48:33,Closed,Chargeback
+908,908,Stolen Card,2024-12-16 22:00:01,Pending,Chargeback
+909,909,Phishing,2025-02-01 12:40:14,Closed,Chargeback
+910,910,Account Takeover,2024-11-03 06:37:47,Closed,Chargeback
+911,911,Account Takeover,2024-11-15 18:48:57,Closed,Chargeback
+912,912,Account Takeover,2024-10-25 08:15:07,Closed,Refunded
+916,916,Phishing,2025-05-02 13:52:21,Confirmed,Blocked Card
+919,919,Phishing,2025-08-29 01:58:47,Confirmed,Chargeback
+920,920,Phishing,2024-11-01 18:11:08,Confirmed,Chargeback
+925,925,Fake Account,2025-01-01 00:01:32,Closed,Chargeback
+929,929,Account Takeover,2024-11-02 17:46:49,Closed,Chargeback
+933,933,Phishing,2025-08-06 17:15:59,Closed,Refunded
+937,937,Fake Account,2025-02-05 19:39:42,Closed,Refunded
+938,938,Stolen Card,2024-11-21 09:27:13,Pending,Blocked Card
+941,941,Fake Account,2025-05-22 05:13:47,Confirmed,Refunded
+947,947,Fake Account,2024-11-18 17:24:08,Confirmed,Refunded
+954,954,Phishing,2025-03-22 23:13:21,Confirmed,Refunded
+955,955,Stolen Card,2024-11-27 21:19:55,Pending,Chargeback
+958,958,Stolen Card,2025-01-05 23:27:35,Confirmed,Chargeback
+965,965,Account Takeover,2024-11-28 19:23:02,Pending,Refunded
+980,980,Account Takeover,2024-10-22 05:18:14,Pending,Chargeback
+981,981,Phishing,2024-12-22 09:14:01,Pending,Blocked Card
+983,983,Fake Account,2025-06-02 17:01:58,Closed,Chargeback
+984,984,Stolen Card,2025-08-31 06:04:35,Pending,Blocked Card
+985,985,Stolen Card,2025-04-18 15:05:02,Confirmed,Blocked Card
+988,988,Fake Account,2025-01-11 10:05:00,Closed,Blocked Card
+991,991,Phishing,2024-10-23 20:44:31,Confirmed,Blocked Card
+997,997,Phishing,2025-05-20 17:36:22,Confirmed,Refunded
